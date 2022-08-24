@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/bnAN+rHdy/cqMbAEWsjm2izoB4rKrZ+skhU0H7cTAVCesclVdcXsC/TuzBUPMZXTwFg+RcJiIg+48ZMhWD6g==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\C#\\Projects\\2022\\Dapper\\Code_Maze_Dapper_Projects\\DapperASPNetCore\\DapperASPNetCore\\DapperASPNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b2jth\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\b2jth\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\b2jth\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\b2jth\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\b2jth\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\b2jth\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
